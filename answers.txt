@@ -1,0 +1,55 @@
+Name:
+UCLA ID:
+
+Collaborators:
+
+-------------------------------------------------------------------------------
+
+Response to Exercise 1:
+
+The name of the scheduling algorithm is:
+Round-Robin Sheduling Algorithm.
+
+(Exercise 2 is a coding exercise)
+
+Response to Exercise 3:
+
+Average turnaround time for scheduling_algorithm 0: 
+schedos-1: 320 * 4 - 3
+schedos-2: 320 * 4 - 2
+schedos-3: 320 * 4 - 1
+schedos-4: 320 * 4
+Average turnaround time for scheduling_algorithm 1:
+schedos-1: 320
+schedos-2: 320 * 2
+schedos-3: 320 * 3
+schedos-4: 320 * 4
+
+Average wait time for scheduling_algorithm 0:
+schedos-1: 0
+schedos-2: 1
+schedos-3: 2
+schedos-4: 3
+Average wait time for scheduling_algorithm 1:
+schedos-1: 0
+schedos-2: 320
+schedos-3: 320 * 2
+schedos-4: 320 * 3
+
+
+Exercise 4:
+
+Did you complete Exercise 4A, Exercise 4B, or both for extra credit?
+I did both.
+
+Exercise 5:
+The first known timer interrupt is at process 4. Process for is skipped in the series "12341234123412341231...".
+
+(Exercise 6 is a coding exercise)
+
+
+Anything else you'd like us to know:
+
+
+
+Extra credit exercises: 4A or 4B, 8
