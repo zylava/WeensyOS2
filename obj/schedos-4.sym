@@ -1,0 +1,4 @@
+00500000 T start
+00501018 A __bss_start
+00501018 A _edata
+00501018 A _end
